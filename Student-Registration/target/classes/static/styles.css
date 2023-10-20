@@ -1,0 +1,49 @@
+.navbar {
+	background-color: #343a40; /* Dark background color */
+}
+
+.navbar-dark .navbar-brand {
+	color: #fff !important; /* White text color */
+	font-weight: bold; /* Bold text */
+}
+
+.navbar-dark .navbar-toggler-icon {
+	background-color: #fff; /* White icon color */
+}
+
+.formInputBox {
+	width: 376px;
+}
+
+.btn-custom {
+	width: 76px;
+	margin-top: 13px;
+}
+
+.custom-addEmployeeBtn {
+	width: 170px;
+}
+
+.view_ticket_box {
+	background-color: #f8f9fa;
+	padding: 20px;
+	border-radius: 8px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.h2-viewTicket-bkg {
+	color: #ffffff;
+	background-color: #343a40; /* Dark background color */
+	padding: 10px; /* Add padding for better aesthetics */
+	border-radius: 8px;
+}
+
+.allTicketView {
+	color: #ffffff;
+	background-color: #343a40; /* Dark background color */
+	padding: 10px 20px; /* Adjust padding for better aesthetics */
+	border-radius: 8px;
+	text-decoration: none; /* Remove underline */
+	margin-top: 15px; 
+	margin-left: 60px;
+}
